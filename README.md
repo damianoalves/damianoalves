@@ -1,4 +1,4 @@
-<blockquote><i> There is always space for improvement. </i></blockquote>
+<blockquote><i><b> "There is always space for improvement, no matter how long you've been in the business."</b> - Oscar De La Hoya </i></blockquote>
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=DamianoAlves&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues&include_all_commits=true&bg_color=00000000">
